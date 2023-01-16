@@ -1,5 +1,5 @@
 # profile-card-component-main
-profile card component main CHALLENGE
+profile card component main CHALLENGE finalizdo ☑
 
 # Project Link :
 https://jank1510.github.io/profile-card-component-main/
